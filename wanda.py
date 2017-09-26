@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-from gi.repository import Gtk
+#!/usr/bin/env python    
+from gi.repository import Gtk #sample comment
 import os
 
 
